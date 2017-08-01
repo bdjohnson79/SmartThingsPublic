@@ -253,6 +253,6 @@ private byte[] reverseArray(byte[] array) {
 	}
 	return array
 }
-private testTamper() {
+private testTamper() { //
 	sendEvent([name: "tamper", value: "detected"])
 }
