@@ -1,3 +1,10 @@
+/** 
+ * Original header below
+ * Revisions Copyright 2017 Ben Johnson
+ * Revisions released under Apache License, Version 2.0 (see below for legalese and disclaimers)
+ *
+ */
+
 /**
  *  Copyright 2017 Eric Maycock
  *
