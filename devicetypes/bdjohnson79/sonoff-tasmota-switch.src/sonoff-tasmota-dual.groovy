@@ -10,7 +10,7 @@
 
 
 metadata {
-    definition(name: "Sonoff-Tasmota", namespace: "bdjohnson79", author: "Brett Sheleski, Ben Johnson") {
+    definition(name: "Sonoff-Tasmota-Dual", namespace: "bdjohnson79", author: "Brett Sheleski, Ben Johnson") {
 		capability "Switch"
 		capability "Momentary"
 		capability "Polling"
